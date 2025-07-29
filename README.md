@@ -4,9 +4,9 @@
 
 - **Company:** CODTECH IT Solutions
 - 
-- **Name:** Bowrothu Tarun  
+- **Name:** DOMA BALA SUNDARAM
 
-- **Intern ID:** :CT04DG100
+- **Intern ID:** :CT04DH2304
 
 - **Domain:** Front-End Development  
 
@@ -90,7 +90,6 @@ Building this portfolio helped me grow and solidify my understanding of several 
 
 ## 📸 Screenshots of My Work
 
-![Portfolio img](assets/port1.png)
 ![Portfolio img](assets/port2.png)
 ![Portfolio img](assets/port3.png)
 
